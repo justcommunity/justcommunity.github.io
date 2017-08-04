@@ -1,3 +1,9 @@
+---
+layout: default
+title: Impressum
+permalink: Imprint.html
+---
+
 # Impressum
 Angaben gemäß §5 TMG:
 
