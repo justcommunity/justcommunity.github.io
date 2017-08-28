@@ -53,3 +53,9 @@ Zur Just Community gehören momentan 33 User Groups aus ganz Deutschland.
 Sie finden eine Gruppe in Ihrer Nähe über unsere Just Community User-Group-Map.
 
 TODO: Map
+
+{% for group in site.usergroups %}
+​    <li>
+​      <a href="{{ group.url }}">{{ group.title }}</a>
+​    </li>
+{% endfor %}

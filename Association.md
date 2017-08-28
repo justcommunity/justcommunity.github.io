@@ -9,7 +9,7 @@ permalink: Association.html
 
 Der Just Community e.V. wurde im Mai 2005. Ziel des Vereins ist die Zusammenführung verschiedenster Communities im IT-Umfeld, und die Bereitstellung der daraus resultierenden Synergieeffekte. Um dies zu erreichen, arbeiten wir an verschiedensten Ideen, die wir im Kreise unserer Mitglieder entwickeln. Wir unterstützen zudem gemeinsam mit Sponsoren aus der Wirtschaft verschiedenste Projekte, die unserem gemeinsamen Ziel zuarbeiten. Dazu gehören die Beratung und Begleitung bei Gründungen neuer Communities genauso wie die Durchführung von Veranstaltungen. Alljährlich, seit 2005, sind wir zudem selbst Veranstalter der „NRW Conf“ – einer der großen Community Konferenzen für Entwickler, IT-Pros und Designer.
 
-![](img/association.jpg)
+![]({{ site.url }}/assets/img/association.jpg)
 
 Sie möchten uns in unserem Ziel unterstützen? Dann werden Sie Mitglied im Just Community e.V.: die Mitgliedschaft ist kostenfrei. Unterstützen Sie den Community Gedanken und werden Sie Teil der Community. Ihr Engagement hilft uns, die Community stärker voran zu treiben.
 

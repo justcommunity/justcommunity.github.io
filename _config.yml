@@ -4,3 +4,14 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
+collections:
+  events:
+    output: true
+    permalink: /:collection/:name
+  usergroups:
+    output: true
+    permalink: /:collection/:name
+  speakers:
+    output: true
+    permalink: /:collection/:name
