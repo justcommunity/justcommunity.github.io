@@ -9,10 +9,4 @@ permalink: Speaker.html
 
 
 
-<ul>
-{% for item in site.speakers %}
-​    <li>
-​      <a href="{{ item.url }}">{{ item.title }}</a>
-​    </li>
-{% endfor %}
-</ul>
+<ul>{% for item in site.speakers %}<li><a href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}</ul>

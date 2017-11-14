@@ -8,20 +8,8 @@ permalink: Events.html
 
 ## Kommende Veranstaltungen
 
-<ul>
-{% for event in site.events %}
-​    <li>
-​      <a href="{{ event.url }}">{{ event.title }}</a>
-​    </li>
-{% endfor %}
-</ul>
+<ul>{% for event in site.events %}<li><a href="{{ event.url }}">{{ event.title }}</a></li>{% endfor %}</ul>
 
 ## Bisherige Veranstaltungen
 
-<ul>
-{% for event in site.events %}
-​    <li>
-​      <a href="{{ event.url }}">{{ event.title }}</a>
-​    </li>
-{% endfor %}
-</ul>
+<ul>{% for event in site.events %}<li><a href="{{ event.url }}">{{ event.title }}</a></li>{% endfor %}</ul>
