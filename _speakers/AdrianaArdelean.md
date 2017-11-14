@@ -5,6 +5,9 @@ date:   2014-11-17 16:16:01 -0600
 categories: Scrum, Projektmanagement
 ---
 
-# Adriana Ardelean
+# {{ page.title }}
+
+Themen: {{ page.categories }}
+
 adriana@activedevelop.de
 
