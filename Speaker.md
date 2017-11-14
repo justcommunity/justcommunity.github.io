@@ -44,4 +44,4 @@ Die INETA Deutschland stellt den Sprechern ein Logo zur Verfügung, um deren Zug
 
 ## INETA Deutschland Sprecher
 
-<ul>{% for item in site.speakers %}<li><a href="{{ item.url }}"><strong>{{ item.title }}</strong></a><br>{{ item.categories }}</li>{% endfor %}</ul>
+<ul>{% for item in site.speakers %}<li><a href="{{ item.url }}"><strong>{{ item.title }}</strong></a><br>{{ item.topics }}</li>{% endfor %}</ul>
