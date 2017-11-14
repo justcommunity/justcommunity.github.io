@@ -54,8 +54,11 @@ Sie finden eine Gruppe in Ihrer Nähe über unsere Just Community User-Group-Map
 
 TODO: Map
 
+
+<ul>
 {% for group in site.usergroups %}
 ​    <li>
 ​      <a href="{{ group.url }}">{{ group.title }}</a>
 ​    </li>
 {% endfor %}
+</ul>
