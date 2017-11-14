@@ -4,14 +4,29 @@ defaults:
       path: "assets/img"
     values:
       image: true
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: usergroups
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: default
 
 collections:
   events:
     output: true
-    permalink: /:collection/:name
+    permalink: /events/:name
   usergroups:
     output: true
-    permalink: /:collection/:name
+    permalink: /usergroups/:name
   speakers:
     output: true
-    permalink: /:collection/:name
+    permalink: /speakers/:name
