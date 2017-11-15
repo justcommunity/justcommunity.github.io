@@ -13,11 +13,9 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [E-Mail](mailto:bjoern@bjro.de)
-- [Blog](http://www.bjro.de/)
+- [E-Mail](mailto:lars@lars-keller.net)
+- [Blog](http://blog.lars-keller.net/)
+- [Twitter](https://twitter.com/larskeller)
 
 ## Bio:
-
 Lead [.NET Developer Group Braunschweig](http://www.dotnet-braunschweig.de/)
-blog.lars-keller.net, lars@lars-keller.net, @larskeller
-

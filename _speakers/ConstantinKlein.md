@@ -13,9 +13,7 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [E-Mail](mailto:bjoern@bjro.de)
-- [Blog](http://www.bjro.de/)
+- [XING](http://www.xing.com/profile/Constantin_Klein)
 
 ## Bio:
 
-http://www.xing.com/profile/Constantin_Klein

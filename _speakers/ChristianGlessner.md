@@ -15,6 +15,6 @@ categories: Speaker
 ## Kontakt:
 - [Twitter](https://twitter.com/cglessner)
 - [Blog](http://www.blog.leitwolf.io/)
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/christian-glessner-51276026)
 
 ## Bio:

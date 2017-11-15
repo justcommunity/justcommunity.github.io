@@ -13,9 +13,8 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [E-Mail](mailto:bjoern@bjro.de)
-- [Blog](http://www.bjro.de/)
+- [E-Mail](mailto:hannesp@ppedv.de)
+- [Blog](http://blog.ppedv.de/)
+- [Facebook](http://facebook.com/preishuber)
 
 ## Bio:
-
-blog.ppedv.de, hannesp@ppedv.de, [Facebook](http://facebook.com/preishuber)

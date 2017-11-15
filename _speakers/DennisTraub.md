@@ -13,11 +13,8 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [E-Mail](mailto:bjoern@bjro.de)
-- [Blog](http://www.bjro.de/)
+- [E-Mail](mailto:dennis.traub@gmail.com)
+- [Twitter](https://twitter.com/dtraub)
+- [XING](https://www.xing.com/profile/Dennis_Traub)
 
 ## Bio:
-
-[XING](https://www.xing.com/profile/Dennis_Traub), @dtraub, dennis.traub@gmail.com
-
-    

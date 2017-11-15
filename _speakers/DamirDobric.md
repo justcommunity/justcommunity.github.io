@@ -13,9 +13,7 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [E-Mail](mailto:bjoern@bjro.de)
-- [Blog](http://www.bjro.de/)
+- [Blog](http://developers.de/blogs/damir_dobric/default.aspx)
 
 ## Bio:
 
-http://developers.de/blogs/damir_dobric/default.aspx

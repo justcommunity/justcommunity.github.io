@@ -13,10 +13,6 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [E-Mail](mailto:bjoern@bjro.de)
-- [Blog](http://www.bjro.de/)
+- [Blog](http://lennybacon.com/)
 
 ## Bio:
-
-lennybacon.com
-

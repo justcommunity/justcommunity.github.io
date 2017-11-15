@@ -13,10 +13,8 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [E-Mail](mailto:bjoern@bjro.de)
-- [Blog](http://www.bjro.de/)
+- [E-Mail](mailto:robin.sedlaczek@live.de)
+- [Website](http://robinsedlaczek.com/)
+- [Twitter](https://twitter.com/RobinSedlaczek)
 
 ## Bio:
-
-robinsedlaczek.com, robin.sedlaczek@live.de, @RobinSedlaczek
-

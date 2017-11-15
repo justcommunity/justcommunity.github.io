@@ -13,10 +13,9 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [E-Mail](mailto:bjoern@bjro.de)
-- [Blog](http://www.bjro.de/)
+- [Blog](http://www.dotnet-blog.net/)
 
 ## Bio:
 
-www.dotnet-blog.net
+
 

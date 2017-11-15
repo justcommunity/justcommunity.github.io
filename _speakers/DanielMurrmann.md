@@ -13,12 +13,7 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [E-Mail](mailto:bjoern@bjro.de)
-- [Blog](http://www.bjro.de/)
+- [E-Mail](mailto:daniel.murrmann@live.de)
+- [Blog](http://www.fancy-development.net/)
 
 ## Bio:
-
-www.fancy-development.net, Daniel.murrmann@live.de
-
-
-

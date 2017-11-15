@@ -13,10 +13,8 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [E-Mail](mailto:bjoern@bjro.de)
-- [Blog](http://www.bjro.de/)
+- [E-Mail](mailto:zanagar@clockworkz.de)
+- [Twitter](http://twitter.com/timur_zanagar)
+- [XING](https://www.xing.com/profile/Timur_Zanagar)
 
 ## Bio:
-
-[XING](https://www.xing.com/profile/Timur_Zanagar), @timur_zanagar, zanagar@clockworkz.de
-

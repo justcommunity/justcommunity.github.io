@@ -13,12 +13,12 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [E-Mail](mailto:bjoern@bjro.de)
-- [Blog](http://www.bjro.de/)
+- [E-Mail](mailto:tw@torstenweber.de)
+- [Website](http://torstenweber.de/)
+- [Google+](https://plus.google.com/111327526999792211726/about?rel=author)
 
 ## Bio:
 
 Entrepreneur, [Entwickler](http://torstenweber.de/), Finanzinvestor. Promoter von [Community](http://dotnet-leipzig.de/), Open Source und [Open Spaces](http://devopenspace.de/). Tätigkeitsorte insbesondere im Raum Leipzig, Rhein-Main-Gebiet und München. Spezialisierung in Mobile Computing, Behavioral Computing (Social Computing, Behavioral Modeling and Prediction) und Interface Design. Bei allem immer mit Mut, Risikobereitschaft und etwas Verrücktheit dabei. Mitglied im Deutscher Fachjournalisten Verband.
 
 CEO von [GROSSWEBER](http://grossweber.com/), Lead [.NET User Group Leipzig](http://dotnet-leipzig.de/)
-torstenweber.de, tw@torstenweber.de, @torstenweber, [Google+](https://plus.google.com/111327526999792211726/about?rel=author)
