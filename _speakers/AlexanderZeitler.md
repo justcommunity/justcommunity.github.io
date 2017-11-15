@@ -10,6 +10,11 @@ categories: Speaker
 
 Themen: {{ page.topics }}
 
+![Profilbild](/assets/img/speakers/dummy.jpg)
+
+## Kontakt:
+- [Blog](http://alexanderzeitler.com/)
+
+## Bio:
 Freiberufler
 
-alexanderzeitler.com

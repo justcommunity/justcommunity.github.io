@@ -10,5 +10,13 @@ categories: Speaker
 
 **Themen:** {{ page.topics }}
 
+![Profilbild](/assets/img/speakers/dummy.jpg)
+
+## Kontakt:
+- [E-Mail](mailto:bjoern@bjro.de)
+- [Blog](http://www.bjro.de/)
+
+## Bio:
+
 johannes.hoppe@haushoppe-its.de, www.haushoppe-its.de, blog.johanneshoppe.de
 

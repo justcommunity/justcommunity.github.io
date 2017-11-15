@@ -10,4 +10,11 @@ categories: Speaker
 
 **Themen:** {{ page.topics }}
 
-blog.leitwolf.io, @cglessner, LinkedIn
+![Profilbild](/assets/img/speakers/dummy.jpg)
+
+## Kontakt:
+- [Twitter](https://twitter.com/cglessner)
+- [Blog](http://www.blog.leitwolf.io/)
+- [LinkedIn]()
+
+## Bio:

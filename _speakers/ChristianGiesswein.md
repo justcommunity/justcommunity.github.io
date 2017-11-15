@@ -10,4 +10,10 @@ categories: Speaker
 
 Themen: {{ page.topics }}
 
-software.tirol, christian@software.tirol
+![Profilbild](/assets/img/speakers/dummy.jpg)
+
+## Kontakt:
+- [E-Mail](mailto:christian@software.tirol)
+- [Website](http://www.software.tirol/)
+
+## Bio:

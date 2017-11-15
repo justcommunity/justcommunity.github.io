@@ -30,7 +30,7 @@ categories: Speaker
 ![Profilbild](/assets/img/speakers/SpeakerName.jpg)
 
 ## Kontakt:
-- [E-Mail](me@domain.com)
+- [E-Mail](mailto:me@domain.com)
 - [Twitter](https://twitter.com/handle)
 - [XING](https://xing.de/...)
 - [Facebook](https://facebook.com/...)

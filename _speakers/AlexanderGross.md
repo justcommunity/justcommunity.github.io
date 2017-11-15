@@ -10,6 +10,11 @@ categories: Speaker
 
 Themen: {{ page.topics }}
 
-CTO von GROSSWEBER, Lead .NET User Group Leipzig
+![Profilbild](/assets/img/speakers/dummy.jpg)
 
-therightstuff.de, agross@therightstuff.de
+## Kontakt:
+- [E-Mail](mailto:agross@therightstuff.de)
+- [Blog](http://therightstuff.de/)
+
+## Bio:
+CTO von GROSSWEBER, Lead .NET User Group Leipzig

@@ -10,4 +10,12 @@ categories: Speaker
 
 **Themen:** {{ page.topics }}
 
+![Profilbild](/assets/img/speakers/dummy.jpg)
+
+## Kontakt:
+- [E-Mail](mailto:bjoern@bjro.de)
+- [Blog](http://www.bjro.de/)
+
+## Bio:
+
 [Blog](http://www.nenoloje.de/meinblog/), [TFS Blog (engl.)](http://www.nenoloje.de/tfsblog/), [XING](http://go.nenoloje.com/xing/)
