@@ -30,7 +30,7 @@ Die User Group muss eine JustCommunity User Group sein und der Zuschuss vor dem 
 
 Nach dem Event sendet der Sprecher innerhalb von 6 Wochen* eine qualifizierte Rechnung inklusive den Kopien aller Belege der Reise bzw. Übernachtung per E-Mail (JustCommunity Rechnung Sprecherbüro“ im Betreff) an:
 
-srecher@justcommunity.de
+sprecher@justcommunity.de
 
 (* Rechnungen müssen bis spätestens 6 Wochen nach dem Event gestellt worden sein. Andernfalls gilt das reservierte Budget als verfallen und wird wieder für andere Events bzw. User Groups verwendet.)
 
