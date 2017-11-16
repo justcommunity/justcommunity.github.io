@@ -10,5 +10,11 @@ categories: Speaker
 
 Themen: {{ page.topics }}
 
-adriana@activedevelop.de
+![Profilbild](/assets/img/speakers/dummy.jpg)
+
+## Kontakt:
+- [E-Mail](mailto:adriana@activedevelop.de)
+
+## Bio:
+
 

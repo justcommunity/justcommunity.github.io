@@ -10,6 +10,11 @@ categories: Speaker
 
 Themen: {{ page.topics }}
 
-Freiberufler
+![Profilbild](/assets/img/speakers/dummy.jpg)
 
-der-albert.com, info@der-albert.com
+## Kontakt:
+- [E-Mail](mailto:info@der-albert.com)
+- [Blog](http://der-albert.com/)
+
+## Bio:
+Freiberufler

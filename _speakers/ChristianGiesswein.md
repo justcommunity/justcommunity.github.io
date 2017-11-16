@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  "Alexander Zeitler"
+title:  "Christian Giesswein"
 date:   2016-11-17 16:16:01 -0600
-topics: "ASP.NET Web API / REST"
+topics: "CLR Fundamentals, .NET, C#, WPF, XAML, PRISM"
 categories: Speaker
 ---
 
@@ -13,8 +13,7 @@ Themen: {{ page.topics }}
 ![Profilbild](/assets/img/speakers/dummy.jpg)
 
 ## Kontakt:
-- [Blog](http://alexanderzeitler.com/)
+- [E-Mail](mailto:christian@software.tirol)
+- [Website](http://www.software.tirol/)
 
 ## Bio:
-Freiberufler
-
