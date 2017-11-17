@@ -10,7 +10,7 @@ categories: Speaker
 
 **Themen:** {{ page.topics }}
 
-![Profilbild](/assets/img/speakers/dummy.jpg)
+![Profilbild](/assets/img/speakers/dummy.png)
 
 ## Kontakt:
 - [Blog](http://developers.de/blogs/damir_dobric/default.aspx)

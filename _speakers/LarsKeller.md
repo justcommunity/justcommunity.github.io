@@ -10,7 +10,7 @@ categories: Speaker
 
 **Themen:** {{ page.topics }}
 
-![Profilbild](/assets/img/speakers/dummy.jpg)
+![Profilbild](/assets/img/speakers/dummy.png)
 
 ## Kontakt:
 - [E-Mail](mailto:lars@lars-keller.net)
